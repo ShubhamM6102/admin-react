@@ -1,0 +1,6 @@
+.apexcharts-datalabels-group{
+    top:10px;
+}
+.apexcharts-text apexcharts-datalabel-value{
+    color: red;
+}

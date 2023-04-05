@@ -1,0 +1,61 @@
+
+.table-card{
+padding: 20px;
+margin-top: 30px;
+
+h5{
+    color: #495057;
+    margin-bottom: 30px;
+}
+
+
+.table-record{
+    background-color: #fff;
+    width: 100%;
+    thead{
+        background-color: #eff2f7 !important;
+    }
+}
+
+tr{
+    height: 50px;
+    border-bottom: 2px solid #eff2f7;;
+}
+
+th,td{
+    padding: 12px;
+}
+
+.paid{
+        color: #34c38f;
+    background-color: rgba(52,195,143,.18);
+    font-size: 12px;
+    padding: 4px;
+}
+
+.refund{
+        color: #f1b44c;
+    background-color: rgba(241,180,76,.18);
+    font-size: 12px;
+    padding: 4px;
+    
+}
+
+.chargeback{
+        color: #f46a6a;
+    background-color: rgba(244,106,106,.18);
+    padding: 4px;
+    font-size: 12px;
+    }
+
+    i{
+        margin: 0 5px 0 5px
+    }
+
+    .btn{
+        font-size: 12px;
+    }
+
+}
+
+

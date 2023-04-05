@@ -1,0 +1,29 @@
+.dropdown-menu{
+    z-index: 999;
+    // width: 100px;
+    width: fit-content;
+    padding: 10px
+}
+
+.dropdown-item{
+    @extend .dropdown-menu;
+}
+
+.btn-group{
+    .color{
+        background-color: #fff;
+    }
+
+    .btn{
+        width: fit-content;
+    }
+
+
+    @media screen and (max-width: 500px) {
+        .btn{
+          display: none;
+        }
+      }
+}
+
+

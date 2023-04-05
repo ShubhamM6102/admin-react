@@ -1,0 +1,88 @@
+.accordion-button{
+    width: 240px !important;
+    background: inherit !important;
+    color: #a6b0cf !important;
+    border: 0px !important;
+    padding-left: 10px !important;
+    font-size: 16px !important;
+}
+
+.accordion-button:hover{
+    color: white !important;
+}
+
+.accordion-item{
+color:  #a6b0cf !important;
+background-color: inherit !important;
+border: 0px !important;
+}
+
+.accordion-body{
+    padding-left: 40px !important;
+
+    li:hover{
+        color: #fff;
+    }
+
+}
+
+.accordion-button {
+    .icon{
+        margin: 0 18px 0 16px !important;
+        font-size: 22px;
+    }
+}
+.App-logo{
+    width: 200px;
+    background-color: inherit;
+    padding: 8px;
+    height: 50px;
+    margin-left: 15px;
+    padding-left: 20px;
+    // padding-right: 30px;
+  }
+// .accordion-item:hover{
+//     color:#fff !important;
+// }
+
+.hide{
+    display: none;
+}
+
+.show-heading{
+    display: contents;
+    color: #fff !important;
+}
+
+.hide-heading{
+    display: none;
+
+}
+.show-text{
+    display: contents;
+}
+
+.hide-text{
+    display: none;
+}
+
+
+.nav1:hover{
+    .hide{
+        display: block;
+        @extend .App-logo;
+    }
+    .hide-text{
+        display: contents;
+    }
+.hide-heading{
+    display: contents;
+    @extend .show-heading;
+}
+
+.nav1{
+    h6{
+        font-size: 12px !important;
+    }
+}
+}

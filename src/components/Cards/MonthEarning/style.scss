@@ -1,0 +1,92 @@
+/* .card{
+    min-width: 400px ;
+    min-height: 270px ;
+}
+
+.card-body{
+    padding: 20px;
+
+} */
+
+.box-dimension{
+    max-width: 510px !important;
+    min-height: 270px !important;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+
+    
+    /* .card{
+        width: 100%;
+    } */
+    .dimension-layout{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding: 5px;
+        width: 100%;
+    }
+
+    .title{
+        padding: 10px 0 0 10px;
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+    .view-icon{
+        color: #fff;
+        margin: 0 3px 0 3px;
+    }
+
+    .earning-detailbox{
+        display: flex;
+        flex-direction: row;
+        /* flex-wrap: wrap; */
+    }
+
+    h1{
+        font-size: 22px;
+        margin: 15px 0 15px 0;
+    }
+
+    .income{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 70%;
+        padding: 10px;
+    }
+
+    .radialBar-box{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .view-more{
+        width: 110px;
+    }
+
+    .earning-content{
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        text-align: justify;
+    }
+
+    .btn{
+        width: fit-content;
+        margin-top: 15px;
+    }
+
+    .span{
+        color: #34C38F;
+        padding: 0 8px 0 3px;
+    }
+
+    .card-text{
+        font-size: 14px;
+        color: #74788D;
+    }
+
+}

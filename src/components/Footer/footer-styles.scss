@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #F2F2F5;
+    padding: 20px;
+    padding-bottom: 0px;
+    margin: 20px 0 0 0;
+    border: 2px solid rgb(236, 234, 234);
+
+    p{
+        color: #74788C;
+    }
+}
