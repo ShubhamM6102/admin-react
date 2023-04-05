@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:![MicrosoftTeams-image (11)](https://user-images.githubusercontent.com/98178220/230053207-091e1400-d23d-4842-9f58-6860e7044dfa.png)
+
 
 ### `npm start`
 
