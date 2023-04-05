@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run this application downlaod the folder andopen it in vscode. Run the command npm install it eill install all the required package using package.json and package-lock.json file.
+Then to run application on server, run command npm run start.
+
+The charts used here are from apex chart library.
+1.StackedColumn chart.
+2.roundedBar chart.
 
 ## Available Scripts
 
